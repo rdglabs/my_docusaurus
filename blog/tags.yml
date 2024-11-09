@@ -1,9 +1,4 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
+Hello:
   label: Hello
   permalink: /hello
   description: Hello tag description
@@ -13,7 +8,7 @@ docusaurus:
   permalink: /docusaurus
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+github:
+  label: Github
+  permalink: /github
+  description: Topics relating to Github
